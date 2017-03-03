@@ -1,0 +1,17 @@
+/*
+** main.c for main in /home/pmondon/epitech/rushb2
+** 
+** Made by pmondon
+** Login   <pierre.mondon@epitech.eu>
+** 
+** Started on  Fri Mar  3 20:20:45 2017 pmondon
+** Last update Fri Mar  3 20:21:16 2017 pmondon
+*/
+
+#include <stdlib.h>
+#include <stdio.h>
+
+int	main(int ac, char **av)
+{
+  int	fd;
+}
